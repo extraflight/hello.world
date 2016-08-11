@@ -1,2 +1,6 @@
 # hello.world
 text
+[00000000] Microsoft Kernel Debug Network Adapter, ROOT\KDNIC\0000
+[00000001] Intel(R) Ethernet Connection I217-V, E0:3F:49:6F:04:09, PCI\VEN_8086&DEV_153B&SUBSYS_859F1043&REV_05\3&11583659&0&C8
+[00000002] Microsoft ISATAP Adapter, SWD\IP_TUNNEL_VBUS\ISATAP_0
+[00000003] WAN Miniport (SSTP)
